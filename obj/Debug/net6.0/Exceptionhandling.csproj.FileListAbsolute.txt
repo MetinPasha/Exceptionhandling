@@ -1,0 +1,14 @@
+D:\Sites\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.exe
+D:\Sites\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.deps.json
+D:\Sites\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.runtimeconfig.json
+D:\Sites\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.dll
+D:\Sites\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.pdb
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.AssemblyInfoInputs.cache
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.AssemblyInfo.cs
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.csproj.CoreCompileInputs.cache
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.dll
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\refint\Exceptionhandling.dll
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.pdb
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.genruntimeconfig.cache
+D:\Sites\Exceptionhandling\obj\Debug\net6.0\ref\Exceptionhandling.dll
