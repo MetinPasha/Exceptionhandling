@@ -21,9 +21,10 @@ class Program
 
 			try
 			{
+			  //int a = int.Parse("test"); 
+			  int a = int.Parse("-20000000000");
 				//int a = int.Parse(null);
 			}
-			//int a = int.Parse("test"); int a = int.Parse("-20000000000");
 			catch (ArgumentNullException ex)
 			{
 				Console.WriteLine("Boş değer girdiniz"); Console.WriteLine(ex);
