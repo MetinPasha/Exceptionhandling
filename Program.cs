@@ -14,10 +14,10 @@ class Program
 			{
 				Console.WriteLine("Hata: " + ex.Message.ToString());
 			}
-			// finally
-			// {
-			//	Console.Write("İşlem tamamlandı.");
-			// }
+			 //finally
+			 //{
+				//Console.Write("İşlem tamamlandı.");
+			 //}
 
 			try
 			{
